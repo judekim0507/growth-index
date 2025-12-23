@@ -69,12 +69,6 @@ The Growth Index draws from established financial research:
 npm install
 ```
 
-Create `.env` with your Alpha Vantage key (optional if using Yahoo Finance):
-
-```
-ALPHA_VANTAGE_KEY=your_key_here
-```
-
 ## Development
 
 ```bash
