@@ -90,7 +90,7 @@
 /* Focus styles */
 input:focus {
 	outline: none;
-	box-shadow: 0 0 0 1px var(--primary);
+	box-shadow: none;
 }
 
 /* Scrollbar */
